@@ -13,6 +13,7 @@ cargo build
 ``` 
 cargo run
 ``` 
+    # Por padrão o Cargo run roda o arquivo src/main.rs, mas você pode especificar o caminho no comando como: "cargo run src/main.rs"
 
 ###### Teste seu projeto com 
 ``` 
